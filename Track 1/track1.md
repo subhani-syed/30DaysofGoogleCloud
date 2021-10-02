@@ -1,11 +1,11 @@
 
-- [ ] Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
+- [X] Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
     - [X] A Tour of Qwiklabs and Google Cloud
     - [X] Creating a Virtual Machine
     - [X] Getting Started with Cloud Shell and gcloud
     - [X] Kubernetes Engine: Qwik Start
-    - [ ] Set Up Network and HTTP Load Balancers
-    - [ ] Create and Manage Cloud Resources: Challenge Lab
+    - [X] Set Up Network and HTTP Load Balancers
+    - [X] Create and Manage Cloud Resources: Challenge Lab
 - [ ] Perform Foundational Infrastructure Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/118)
     - [ ] Cloud Storage Qwik Start - Cloud Console
     - [ ] Cloud IAM: Qwik Start
